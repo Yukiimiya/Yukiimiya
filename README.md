@@ -5,7 +5,7 @@
     ⛩️ I'm a beginner programmer.
     🪷 Python • back-end
     🍥 Music • Games • Anime/Manga • Code
-    🌙 Ubuntu/Debian
+    🌙 Arch/Debian
     
 </pre>
 <br><br>
